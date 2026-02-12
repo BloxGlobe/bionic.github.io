@@ -1,11 +1,12 @@
-import '../../pages/.landing/index';
+import Loading from '../../pages/.landing/.lo@ding/loading';
+import  '../../pages/.landing/index';
 
 function Landing() {
   return (
     <div>
-      <h1>Welcome to the Landing Page</h1>
+      <Loading />
     </div>
-  )
+  );
 }
 
-export default Landing
+export default Landing;
