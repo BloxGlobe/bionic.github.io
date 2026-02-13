@@ -1,3 +1,1 @@
-import LandingIndex from '../../pages/.landing/.l@nding/index';
-
-export default LandingIndex;
+import './.l@nding/index';
